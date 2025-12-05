@@ -1,6 +1,6 @@
 {
   "name": "the-movie-hub",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A Movie Collections Page to know the details and reviews of the Movie. ",
   "main": "src/index.js",
   "scripts": {
